@@ -1,0 +1,53 @@
+# Archivos generados por el sistema operativo
+**/.DS_Store
+Thumbs.db
+
+# Archivos y carpetas del IDE
+/.idea/
+/*.iml
+/.project
+/.classpath
+/.settings/
+
+# Directorios de compilación
+/bin/
+/build/
+/out/
+target/
+
+# Archivos de registro
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Dependencias descargadas por Maven
+.mvn/
+/.mvn/
+target/
+
+# Dependencias descargadas por Gradle
+.gradle/
+/build/
+
+# Archivos específicos de Gradle
+.gradle/
+/build/
+!gradle-wrapper.jar
+
+# Archivos específicos del entorno
+.env
+.env.local
+*.local
+*.env.*.backup
+
+# Archivos de paquetes Java
+*.jar
+*.war
+*.ear
+
+# Archivos de configuración personal
+*.properties
